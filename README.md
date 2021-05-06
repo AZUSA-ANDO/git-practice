@@ -1,4 +1,6 @@
 hoge
 Tako
 Azi
+Tako
+
 
